@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vkada\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vkada\\.nuget\\packages"
+    ]
+  }
+}
