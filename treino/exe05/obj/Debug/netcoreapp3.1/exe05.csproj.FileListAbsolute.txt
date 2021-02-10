@@ -1,0 +1,13 @@
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\obj\Debug\netcoreapp3.1\exe05.csprojAssemblyReference.cache
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\obj\Debug\netcoreapp3.1\exe05.AssemblyInfoInputs.cache
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\obj\Debug\netcoreapp3.1\exe05.AssemblyInfo.cs
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\obj\Debug\netcoreapp3.1\exe05.csproj.CoreCompileInputs.cache
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\bin\Debug\netcoreapp3.1\exe05.exe
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\bin\Debug\netcoreapp3.1\exe05.deps.json
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\bin\Debug\netcoreapp3.1\exe05.runtimeconfig.json
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\bin\Debug\netcoreapp3.1\exe05.runtimeconfig.dev.json
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\bin\Debug\netcoreapp3.1\exe05.dll
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\bin\Debug\netcoreapp3.1\exe05.pdb
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\obj\Debug\netcoreapp3.1\exe05.dll
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\obj\Debug\netcoreapp3.1\exe05.pdb
+C:\Users\vkada\Desktop\meu projetos\c#\treino c#\exe05\obj\Debug\netcoreapp3.1\exe05.genruntimeconfig.cache
